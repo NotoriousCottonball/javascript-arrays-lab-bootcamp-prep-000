@@ -9,4 +9,5 @@ function destructivelyPrependKitten(name, array) {
 }
 function destructivelyRemoveLastKitten(array) {
   kitten.pop();
+  return kittens;
 } 
